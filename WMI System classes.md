@@ -1,0 +1,5 @@
+The WMI System classes are a collection of predefined classes based on the Common Information Model(CIM). Unlike classes supplied by providers, the system classes are not declared in a [[Managed Object Format]] file. [[WMI]] creates a set of theses classes whenever a new WMI namespace is created
+
+Objects from the system classes are used to support WMI activities, such as: event and provider registration, security, and event notification. Some objects are temporary, and some are stored in the repository as instances of the system classes. 
+
+System classes follow a naming convention that consists of a double-underscore (\_\_)  followed by the class name. When you write a MOF file to define classes for a WMI provider, Mofcomp.exe does not compile any class with an initial double-underscore (\_\_) because that is reserved for WMI system class names.

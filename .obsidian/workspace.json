@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "0fdbed831125858f",
+    "type": "split",
+    "children": [
+      {
+        "id": "16e698677ac6e9a1",
+        "type": "tabs",
+        "dimension": 70.77747989276139,
+        "children": [
+          {
+            "id": "5636a03f904b4cdc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            },
+            "group": "1ea92bc58b6d9183"
+          }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "2ed173ab1dc4205a",
+        "type": "tabs",
+        "dimension": 29.2225201072386,
+        "children": [
+          {
+            "id": "ea861749c2e4addc",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Windows Internals.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "1ea92bc58b6d9183"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04db7fd7c29dec61",
+    "type": "split",
+    "children": [
+      {
+        "id": "700916e70e183aab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20e5a7b178a1f4b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce0bff3c4560d1e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c11275262a2542b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3e124bb8de48e19e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b454c92c99af615b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb1a89740285f4e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54f8c30a1553842e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "209ed46d4e1922d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3d3d1f71ccbef96e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "5636a03f904b4cdc",
+  "lastOpenFiles": [
+    "Windows Internals.md",
+    "Introduction_to_Windows.md",
+    "Windows Commands.md",
+    "BIOS.md",
+    "Managed Object Format.md",
+    "WMI.md",
+    "MI.md",
+    "WMI System classes.md",
+    "Active_Directory.md",
+    "Internet_Information_Services.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "20230918.md",
+    "Introduction.md",
+    "().md"
+  ]
+}
