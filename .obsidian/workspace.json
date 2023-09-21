@@ -12,8 +12,12 @@
             "id": "5636a03f904b4cdc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CMake.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "1ea92bc58b6d9183"
           }
@@ -31,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Windows Internals.md",
+                "file": "CMake.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CMake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CMake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CMake.md"
+              }
             }
           }
         ]
@@ -189,16 +197,19 @@
   },
   "active": "5636a03f904b4cdc",
   "lastOpenFiles": [
-    "Windows Internals.md",
-    "Introduction_to_Windows.md",
-    "Windows Commands.md",
-    "BIOS.md",
-    "Managed Object Format.md",
+    "CMake Standard Template.md",
+    "CMake.md",
+    "C++.md",
     "WMI.md",
-    "MI.md",
     "WMI System classes.md",
+    "BIOS.md",
     "Active_Directory.md",
+    "MI.md",
+    "Managed Object Format.md",
+    "Introduction_to_Windows.md",
     "Internet_Information_Services.md",
+    "Windows Internals.md",
+    "Windows Commands.md",
     "Untitled 1.md",
     "Untitled.md",
     "20230918.md",

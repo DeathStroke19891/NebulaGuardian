@@ -16,5 +16,13 @@
       ],
       "key": "H"
     }
+  ],
+  "editor:follow-link": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "Enter"
+    }
   ]
 }
