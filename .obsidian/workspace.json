@@ -6,66 +6,21 @@
       {
         "id": "16e698677ac6e9a1",
         "type": "tabs",
-        "dimension": 70.77747989276139,
         "children": [
           {
-            "id": "5636a03f904b4cdc",
+            "id": "1b4e507152405418",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMake.md",
+                "file": "PostgreSQL.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "1ea92bc58b6d9183"
+            }
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "2ed173ab1dc4205a",
-        "type": "tabs",
-        "dimension": 29.2225201072386,
-        "children": [
-          {
-            "id": "ea861749c2e4addc",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "CMake.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "1ea92bc58b6d9183"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMake.md",
+                "file": "PostgreSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMake.md",
+                "file": "PostgreSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMake.md"
+                "file": "PostgreSQL.md"
               }
             }
           }
@@ -195,10 +150,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5636a03f904b4cdc",
+  "active": "1b4e507152405418",
   "lastOpenFiles": [
-    "CMake Standard Template.md",
+    "Mermaid.js.md",
+    "PostgreSQL.md",
+    "Git Session.md",
+    "Kernel.md",
+    "vmlinuz.md",
+    "Buglerock.md",
+    "Catch-22.md",
     "CMake.md",
+    "CMake Standard Template.md",
     "C++.md",
     "WMI.md",
     "WMI System classes.md",
@@ -211,7 +173,6 @@
     "Windows Internals.md",
     "Windows Commands.md",
     "Untitled 1.md",
-    "Untitled.md",
     "20230918.md",
     "Introduction.md",
     "().md"

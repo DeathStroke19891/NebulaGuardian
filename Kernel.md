@@ -1,0 +1,4 @@
+Kernel  packages are installed under the `/usr/lib/modules/` path and subsequently used to generate the [[vmlinuz]] executable image in `/boot/`
+
+# Kernel Panics
+A kernel panic occurs when the Linux kernel enters an unrecoverable failure state. The state typically originates from buggy hardware drivers resulting in the machine being deadlocked, non-responsive and requiring a reboot. Just prior to deadlock, a diagnostic message is generated, consisting of: the machine state when the failure occurred, a call trace leading to the kernel function that recognized the failure, and a listing of currently loaded modules. Thankfully, kernel panics do not happen very often using mainline versions of the kernel--such as those supplied by the official repositories--but when they do happen, one needs to know how to deal with them.

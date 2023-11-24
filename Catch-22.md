@@ -1,0 +1,1 @@
+A situation from which an individual cannot get out of due to paradoxical rules and limitations.
