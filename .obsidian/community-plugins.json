@@ -4,5 +4,6 @@
   "dataview",
   "obsidian-tagfolder",
   "obsidian-linter",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "unicode-search"
 ]

@@ -1,7 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "LYT Mode",
+  "cssTheme": "Vanilla AMOLED Color",
   "translucency": true,
   "nativeMenus": false,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "theme": "obsidian"
 }
